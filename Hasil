@@ -1,0 +1,37 @@
+======================================================
+
+WARUNG TEGAL SEDERHANA
+DAFTAR MENU : 
+(1). SATE 
+(a). Sate Ayam : Rp 1.500 / Tusuk 
+(b). Sate Kambing : Rp 3.000 / Tusuk
+
+(2). PECEL 
+(a). Lauk Ayam : Rp 13.000 / Porsi 
+(b). Lauk Empal : Rp 15.000 / Porsi
+
+(3). PENYETAN 
+(a). Lauk Tahu/Tempe : Rp 5.000 / Porsi 
+(b). Lauk Telur : Rp 7.000 / Porsi 
+(c). Lauk Ayam : Rp 10.000 / Porsi
+
+======================================================
+ 
+Pilih menu sesuai nomor yang di sediakan (1/2/3)   : 2
+Pilih submenu sesai nomor yang di sediakan (1/2) : 2
+Masukkan jumlah pembelian : 4
+
+Apakah anda memiliki kartu Member? (Y/N) : N
+Total biaya yang harus di bayar = Rp 60000.0
+
+Masukkan jumlah uang pembayaran : 60000
+
+======================================================
+ 
+Uang yang anda bayarkan senilai  Rp 60000.0
+Total pembelian anda senilai     Rp 60000.0
+Total kembalian anda senilai     Rp 0.0
+
+Terima Kasih Dan Semoga Puas Ya :) 
+
+======================================================
